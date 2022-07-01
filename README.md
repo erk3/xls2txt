@@ -5,6 +5,7 @@ A small python code snippet for displaying XLS files in your shell.
 ## The why
 
 Clients usually send me an encrypted archive with an XLS file containing credentials for starting a pentest.
+
 I got tired of switching to GUI.
 
 ## The how
